@@ -1,6 +1,6 @@
 # Basic Particle Swarm Optimization
 
-## Intro
+## Intro
 
 Soon
 
